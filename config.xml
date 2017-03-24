@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "20170"
+        id        = "ar.edu.uncoma.pedco"
+        versionCode = "2017"
         version   = "3.2.1">
-    <name>Moodle Mobile</name>
+    <name>PEDCO Móvil</name>
 
     <description>
-        Moodle Mobile official app
+        ¡Aplicación PEDCO para tu celular!
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="http://sti.uncoma.edu.ar" email="plataforma@dti.uncoma.edu.ar">
+        Departamento de Diseño y Entornos Virtuales
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
