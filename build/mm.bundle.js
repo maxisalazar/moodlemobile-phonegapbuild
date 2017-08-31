@@ -51884,8 +51884,8 @@ angular.module('mm.addons.messageoutput_airnotifier')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "ar.edu.uncoma.pedco",
-    "appname": "PEDCO Móvil",
+    "app_id" : "ar.edu.uncoma.virtual",
+    "appname": "Comahue Campus Virtual Móvil",
     "versioncode" : "2017",
     "versionname" : "3.2.1",
     "cache_expiration_time" : 300000,
@@ -51896,7 +51896,7 @@ angular.module('mm.core')
     "demo_sites": "",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://pedco.uncoma.edu.ar",
+    "siteurl": "http://virtual.uncoma.edu.ar",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"

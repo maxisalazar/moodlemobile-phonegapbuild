@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "ar.edu.uncoma.pedco"
+        id        = "ar.edu.uncoma.virtual"
         versionCode = "2017"
         version   = "3.2.1">
-    <name>PEDCO Móvil</name>
+    <name>Comahue Campus Virtual Móvil</name>
 
     <description>
-        ¡Aplicación PEDCO al alcance de tu celular!
+        ¡Aplicación Comahue Campus Virtual al alcance de tu celular!
     </description>
 
     <author href="http://sti.uncoma.edu.ar" email="plataforma@dti.uncoma.edu.ar">
-        Departamento de Diseño y Entornos Virtuales
+        Subsecretaría de Tecnologías de la Información
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
