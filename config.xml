@@ -3,8 +3,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "ar.edu.uncoma.pedco"
-        versionCode = "2017"
-        version   = "3.2.1">
+        versionCode = "1"
+        version   = "3.2.1-1">
     <name>PEDCO Móvil</name>
 
     <description>
