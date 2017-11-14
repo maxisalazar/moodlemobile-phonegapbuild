@@ -543,7 +543,7 @@
     "mm.login.createaccount": "Crear cuenta",
     "mm.login.createuserandpass": "Crear un nuevo usuario y contraseña para acceder al sistema",
     "mm.login.credentials": "Credenciales",
-    "mm.login.credentialsdescription": "Introduzca su nombre de usuario y contraseña para entrar",
+    "mm.login.credentialsdescription": "Introduzca su nombre de usuario y contraseña",
     "mm.login.emailconfirmsent": "<p>Se ha enviado un email a su dirección <b>{{$a}}</b></p><p>Contiene instrucciones para completar el proceso de registro.</p><p>Si continúa teniendo algún problema, contacte con el administrador de su sitio.</p>",
     "mm.login.emailnotmatch": "Las direcciones de correo no coinciden.",
     "mm.login.enterthewordsabove": "Escriba las palabras de arriba",
